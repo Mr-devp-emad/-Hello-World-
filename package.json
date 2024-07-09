@@ -1,0 +1,12 @@
+{
+  "name": "0.hello_world",
+  "version": "1.0.0",
+  "description": "in this typescript file we solved the first assingment",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Emad Ahmed rollnumber (227065)",
+  "license": "ISC"
+}
